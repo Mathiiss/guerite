@@ -1,6 +1,6 @@
-# Guerite avec threejs
+# sentry box with threejs
 
-This project represent a gurite in three JS with simple animation
+This project represent a sentry box in three JS with simple animation
 
 ## Available Scripts
 
