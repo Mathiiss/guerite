@@ -1,4 +1,4 @@
-# sentry box with threejs
+# Sentry box with threejs
 
 This project represent a sentry box in three JS with simple animation
 
